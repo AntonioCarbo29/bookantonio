@@ -1,9 +1,7 @@
-# Welcome to your Jupyter Book
+# Bienvenido a mi Pagina Estatica.
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Hola...
+Soy el estudiante Antonio Adolfo Carbo León, actualmente vivo en la ciudad de Guayaquil tengo 21 años de edad, estudio en la Universidad Tecnica Particular De Loja donde curso la Carrera de Tecnologias de la Imformación en 6 semestre.
 
 Check out the content pages bundled with this sample book to see more.
 
